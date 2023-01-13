@@ -12,7 +12,7 @@ Quais foram os desafios enfrentados e os recursos que se espera implementar no f
 </p>
 
 
-
+<!--ts-->
 Qual foi a sua motivação?
 <br>
 Por que você criou esse projeto?
@@ -20,5 +20,6 @@ Que problema ele resolve?
 O que você aprendeu?
 O que faz com que seu projeto se destaque?
 
+<!--te-->
 
-Instalação e execução do projeto
+*Instalação e execução do projeto
