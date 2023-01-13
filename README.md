@@ -27,3 +27,5 @@ O que faz com que seu projeto se destaque?
 <!--te-->
 
 *Instalação e execução do projeto
+
+* Instalação
