@@ -6,13 +6,15 @@
 
 ## Descrição do Projeto
 <p align="center">Escrever uma breve descrição</p>
-O que o aplicativo faz,
+<p>O que o aplicativo faz,
 Por que foram utilizadas as tecnologias que estão no projeto,
 Quais foram os desafios enfrentados e os recursos que se espera implementar no futuro.
+</p>
 
 
 
 Qual foi a sua motivação?
+<br>
 Por que você criou esse projeto?
 Que problema ele resolve?
 O que você aprendeu?
